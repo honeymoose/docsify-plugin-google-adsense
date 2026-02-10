@@ -7,7 +7,7 @@
 ## Usage
 
 ```html
-<script src="//cdn.jsdelivr.net/npm/docsify-plugin-google-adsense@0.0.1/index.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-plugin-google-adsense@latest/index.min.js"></script>
 ```
 
 ```js
