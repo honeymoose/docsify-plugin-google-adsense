@@ -1,6 +1,6 @@
 {
-  "name": "docsify-plugin-adsense",
-  "version": "1.0.0",
+  "name": "docsify-plugin-google-adsense ",
+  "version": "0.0.1",
   "description": "[docsify](https://docsify.js.org/) plugin to make you easy to join up [google adsense](https://www.google.com/adsense)",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iscod/docsify-plugin-adsense.git"
+    "url": "https://src.isharkfly.com/iSharkFly-Open/docsify-plugin-adsense.git"
   },
   "keywords": [
     "google adsense",
@@ -16,10 +16,10 @@
     "docsify",
     "plugin"
   ],
-  "author": "iscod",
+  "author": "iSharkFly",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iscod/docsify-plugin-adsense/issues"
+    "url": "https://src.isharkfly.com/iSharkFly-Open/docsify-plugin-adsense"
   },
-  "homepage": "https://github.com/iscod/docsify-plugin-adsense#readme"
+  "homepage": "https://src.isharkfly.com/iSharkFly-Open/docsify-plugin-adsense#readme"
 }
