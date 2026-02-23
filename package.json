@@ -1,5 +1,5 @@
 {
-  "name": "docsify-plugin-google-adsense ",
+  "name": "docsify-plugin-google-adsense",
   "version": "0.0.5",
   "description": "[docsify](https://docsify.js.org/) plugin to make you easy to join up [google adsense](https://www.google.com/adsense)",
   "main": "index.js",
